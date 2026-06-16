@@ -2,7 +2,7 @@ import { readFileSync, writeFileSync } from "node:fs";
 
 const paths = [
   new URL("../README.md", import.meta.url),
-  new URL("../assets/profile-chat.svg", import.meta.url),
+  new URL("../assets/profile-chat-current.svg", import.meta.url),
 ];
 const day = new Intl.DateTimeFormat("en-US", {
   weekday: "long",

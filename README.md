@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="./assets/profile-chat.svg" alt="Gokul Krishna R profile intro animation" />
+  <img src="./assets/profile-chat-current.svg" alt="Gokul Krishna R profile intro animation" />
 
   <p>
     <a href="https://heygokul.vercel.app">Portfolio</a>
