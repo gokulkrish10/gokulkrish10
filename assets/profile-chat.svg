@@ -1,0 +1,139 @@
+<svg width="850" height="430" viewBox="0 0 850 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .msg {
+      fill: #f0f6fc;
+      font-family: "Fira Code", "SFMono-Regular", Consolas, monospace;
+      font-size: 22px;
+      font-weight: 600;
+    }
+
+    .bubble {
+      fill: #30363d;
+    }
+
+    .dot {
+      fill: #8b949e;
+    }
+  </style>
+
+  <text class="msg" x="0" y="28">Hi!</text>
+
+  <g opacity="0" transform="translate(0 52)">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.88;1" begin="0.2s" dur="1.5s" fill="freeze" />
+    <rect class="bubble" x="0" y="0" width="92" height="38" rx="19" />
+    <circle class="dot" cx="27" cy="19" r="6">
+      <animate attributeName="opacity" values="0.35;1;0.35" begin="0.2s" dur="0.9s" repeatCount="indefinite" />
+    </circle>
+    <circle class="dot" cx="46" cy="19" r="6">
+      <animate attributeName="opacity" values="0.35;1;0.35" begin="0.4s" dur="0.9s" repeatCount="indefinite" />
+    </circle>
+    <circle class="dot" cx="65" cy="19" r="6">
+      <animate attributeName="opacity" values="0.35;1;0.35" begin="0.6s" dur="0.9s" repeatCount="indefinite" />
+    </circle>
+  </g>
+  <text class="msg" x="0" y="80" opacity="0">Hi, I'm Gokul Krishna R
+    <animate attributeName="opacity" values="0;1" begin="1.7s" dur="0.01s" fill="freeze" />
+  </text>
+
+  <g opacity="0" transform="translate(0 104)">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.88;1" begin="2.0s" dur="1.5s" fill="freeze" />
+    <rect class="bubble" x="0" y="0" width="92" height="38" rx="19" />
+    <circle class="dot" cx="27" cy="19" r="6">
+      <animate attributeName="opacity" values="0.35;1;0.35" begin="2.0s" dur="0.9s" repeatCount="indefinite" />
+    </circle>
+    <circle class="dot" cx="46" cy="19" r="6">
+      <animate attributeName="opacity" values="0.35;1;0.35" begin="2.2s" dur="0.9s" repeatCount="indefinite" />
+    </circle>
+    <circle class="dot" cx="65" cy="19" r="6">
+      <animate attributeName="opacity" values="0.35;1;0.35" begin="2.4s" dur="0.9s" repeatCount="indefinite" />
+    </circle>
+  </g>
+  <text class="msg" x="0" y="132" opacity="0">Current Location in Coimbatore
+    <animate attributeName="opacity" values="0;1" begin="3.5s" dur="0.01s" fill="freeze" />
+  </text>
+
+  <g opacity="0" transform="translate(0 156)">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.88;1" begin="3.8s" dur="1.5s" fill="freeze" />
+    <rect class="bubble" x="0" y="0" width="92" height="38" rx="19" />
+    <circle class="dot" cx="27" cy="19" r="6">
+      <animate attributeName="opacity" values="0.35;1;0.35" begin="3.8s" dur="0.9s" repeatCount="indefinite" />
+    </circle>
+    <circle class="dot" cx="46" cy="19" r="6">
+      <animate attributeName="opacity" values="0.35;1;0.35" begin="4.0s" dur="0.9s" repeatCount="indefinite" />
+    </circle>
+    <circle class="dot" cx="65" cy="19" r="6">
+      <animate attributeName="opacity" values="0.35;1;0.35" begin="4.2s" dur="0.9s" repeatCount="indefinite" />
+    </circle>
+  </g>
+  <text class="msg" x="0" y="184" opacity="0">Associate Consultant AI Engineering @ SST cloud
+    <animate attributeName="opacity" values="0;1" begin="5.3s" dur="0.01s" fill="freeze" />
+  </text>
+
+  <g opacity="0" transform="translate(0 208)">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.88;1" begin="5.6s" dur="1.5s" fill="freeze" />
+    <rect class="bubble" x="0" y="0" width="92" height="38" rx="19" />
+    <circle class="dot" cx="27" cy="19" r="6">
+      <animate attributeName="opacity" values="0.35;1;0.35" begin="5.6s" dur="0.9s" repeatCount="indefinite" />
+    </circle>
+    <circle class="dot" cx="46" cy="19" r="6">
+      <animate attributeName="opacity" values="0.35;1;0.35" begin="5.8s" dur="0.9s" repeatCount="indefinite" />
+    </circle>
+    <circle class="dot" cx="65" cy="19" r="6">
+      <animate attributeName="opacity" values="0.35;1;0.35" begin="6.0s" dur="0.9s" repeatCount="indefinite" />
+    </circle>
+  </g>
+  <text class="msg" x="0" y="236" opacity="0">2x Hackathon Winner
+    <animate attributeName="opacity" values="0;1" begin="7.1s" dur="0.01s" fill="freeze" />
+  </text>
+
+  <g opacity="0" transform="translate(0 260)">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.88;1" begin="7.4s" dur="1.5s" fill="freeze" />
+    <rect class="bubble" x="0" y="0" width="92" height="38" rx="19" />
+    <circle class="dot" cx="27" cy="19" r="6">
+      <animate attributeName="opacity" values="0.35;1;0.35" begin="7.4s" dur="0.9s" repeatCount="indefinite" />
+    </circle>
+    <circle class="dot" cx="46" cy="19" r="6">
+      <animate attributeName="opacity" values="0.35;1;0.35" begin="7.6s" dur="0.9s" repeatCount="indefinite" />
+    </circle>
+    <circle class="dot" cx="65" cy="19" r="6">
+      <animate attributeName="opacity" values="0.35;1;0.35" begin="7.8s" dur="0.9s" repeatCount="indefinite" />
+    </circle>
+  </g>
+  <text class="msg" x="0" y="288" opacity="0">Portfolio
+    <animate attributeName="opacity" values="0;1" begin="8.9s" dur="0.01s" fill="freeze" />
+  </text>
+
+  <g opacity="0" transform="translate(0 312)">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.88;1" begin="9.2s" dur="1.5s" fill="freeze" />
+    <rect class="bubble" x="0" y="0" width="92" height="38" rx="19" />
+    <circle class="dot" cx="27" cy="19" r="6">
+      <animate attributeName="opacity" values="0.35;1;0.35" begin="9.2s" dur="0.9s" repeatCount="indefinite" />
+    </circle>
+    <circle class="dot" cx="46" cy="19" r="6">
+      <animate attributeName="opacity" values="0.35;1;0.35" begin="9.4s" dur="0.9s" repeatCount="indefinite" />
+    </circle>
+    <circle class="dot" cx="65" cy="19" r="6">
+      <animate attributeName="opacity" values="0.35;1;0.35" begin="9.6s" dur="0.9s" repeatCount="indefinite" />
+    </circle>
+  </g>
+  <text class="msg" x="0" y="340" opacity="0">LinkedIn
+    <animate attributeName="opacity" values="0;1" begin="10.7s" dur="0.01s" fill="freeze" />
+  </text>
+
+  <g opacity="0" transform="translate(0 364)">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.88;1" begin="11.0s" dur="1.5s" fill="freeze" />
+    <rect class="bubble" x="0" y="0" width="92" height="38" rx="19" />
+    <circle class="dot" cx="27" cy="19" r="6">
+      <animate attributeName="opacity" values="0.35;1;0.35" begin="11.0s" dur="0.9s" repeatCount="indefinite" />
+    </circle>
+    <circle class="dot" cx="46" cy="19" r="6">
+      <animate attributeName="opacity" values="0.35;1;0.35" begin="11.2s" dur="0.9s" repeatCount="indefinite" />
+    </circle>
+    <circle class="dot" cx="65" cy="19" r="6">
+      <animate attributeName="opacity" values="0.35;1;0.35" begin="11.4s" dur="0.9s" repeatCount="indefinite" />
+    </circle>
+  </g>
+  <text class="msg" x="0" y="392" opacity="0">Happy Tuesday!
+    <animate attributeName="opacity" values="0;1" begin="12.5s" dur="0.01s" fill="freeze" />
+  </text>
+</svg>
